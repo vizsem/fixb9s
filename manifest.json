@@ -4,7 +4,7 @@
   "lang": "en-ID",
   "start_url": "https://www.b9santri.com/?m=1/?utm_source=pwa_install",
   "display": "standalone",
-  "scope": "https://www.b9santri.com/?m=1",
+  "scope": "https://www.b9santri.com/",
   "background_color": "#FFFFFF",
   "theme_color": "#42b549",
   "gcm_sender_id": "704511797260",
